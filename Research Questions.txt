@@ -1,0 +1,18 @@
+1. How much sales are going on each region from the past years
+
+2. How the publisher is doing and how many sales are done by the top 10 publishers
+
+3. What are the Top games that users are enjoy playing them. What are the rating they gave for each game
+
+4. What are the Top genre of the games that people are playing. And on which platform they are playing on
+
+5. What are the Top game developers and when they have established and from which country they are from
+
+
+
+Future Research Question:
+1. Impact of COvid 19
+2. Cross Cultural Difference
+3. Emerging Technology
+4. Mobile Gaming
+5. Game Development
